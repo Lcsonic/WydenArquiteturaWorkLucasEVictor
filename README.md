@@ -2,9 +2,12 @@
 Repositório para armazenamento do trabalho de peso 4 da disciplina de Arquitetura de computadores
 
 Disciplina: Arquitetura de computadores
+
 Doscente: Heleno
-Discentes: Lucas Araújo Santos (202304266921)
-           Victor Damasceno ()
+
+Discentes: 
+Lucas Araújo Santos (202304266921)
+Victor Damasceno ()
 
 Mapa mental -
 Link do mapa mental: https://mm.tt/app/map/3262631882?t=lV7IywgCRp
