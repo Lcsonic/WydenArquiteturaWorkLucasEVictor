@@ -7,7 +7,7 @@ Doscente: Heleno
 
 Discentes: 
 Lucas Araújo Santos (202304266921)
-Victor Damasceno ()
+Victor Damasceno (202302372562)
 
 Mapa mental -
 Link do mapa mental: https://mm.tt/app/map/3262631882?t=lV7IywgCRp
@@ -18,7 +18,7 @@ Tema: A memoria RAM, funcionamento e comunicação.
 Tempo: 04:36
 
 Quiz - 
-Link do quiz: 
+Link do quiz: https://create.kahoot.it/share/estudia-con-preguntas-de-verdadero-o-falso/aca52434-74a8-434b-af89-4015edbe0b09
 
 
 
